@@ -3,7 +3,12 @@
 - 🌱 I’m currently learning machine learning techniques
 - 💞️ I’m looking to collaborate on data analutics & data science & machine learning
 - 📫 How to reach me: shcwang@bu.edu
-- ✨ For more assignments:
+- ✨ Here are our group projects:
+     https://github.com/Elisa1999/genetic_counseling (R-Studio)
+     https://github.com/jyli06/MA679_Final_DL (Python)
+     https://github.com/smartvickyshan2000/Consulting-1 (R-Studio)
+     https://github.com/MA615-Homework/Assignment-3 (R-Studio)
+     https://github.com/TaoHeee/MA615-Midterm-Project (R-Studio)
      
 
 <!---
